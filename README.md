@@ -17,14 +17,14 @@
 
 ### Steps the project is implemented
 
-A. Setting up React environment
-B. Connecting app to github
-C. Deploying React app to Amplify
-D Building React Components to Render Data
-E Using JSON as a Mock for Dynamically loaded data
-F Using AWS DynamoDB to store data
-G Interacting with AWS and DynamoDB through the command line
-H Creating and use a DynamoDB table
-I Createing, loading, and testing a new role that can execute Lambda functions and interact with DynamoDB.
-J Creating and deploying an API gateway and
+1. Setting up React environment
+2. Connecting app to github
+3. Deploying React app to Amplify
+4. Building React Components to Render Data
+5. Using JSON as a Mock for Dynamically loaded data
+6. Using AWS DynamoDB to store data
+7. Interacting with AWS and DynamoDB through the command line
+8. Creating and use a DynamoDB table
+9. Createing, loading, and testing a new role that can execute Lambda functions and interact with DynamoDB.
+10. Creating and deploying an API gateway and
 connecting the React code to an API Gateway endpoint.
