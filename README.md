@@ -17,9 +17,9 @@
 
 ### Steps the project is implemented
 
-A Setting up React environment
-B Connecting app to github
-C Deploying React app to Amplify
+A. Setting up React environment
+B. Connecting app to github
+C. Deploying React app to Amplify
 D Building React Components to Render Data
 E Using JSON as a Mock for Dynamically loaded data
 F Using AWS DynamoDB to store data
