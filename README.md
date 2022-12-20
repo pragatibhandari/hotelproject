@@ -7,7 +7,7 @@
 - AWS Amplify
 - AWS Lamda
 - AWS DynamoDB
-- HTML/CSS
+
 
 ### Prerequisities
 
