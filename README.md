@@ -8,7 +8,6 @@
 - AWS Lamda
 - AWS DynamoDB
 
-
 ### Prerequisities
 
 - AWS Command Line Interface
@@ -27,4 +26,4 @@
 8. Creating and use a DynamoDB table
 9. Createing, loading, and testing a new role that can execute Lambda functions and interact with DynamoDB.
 10. Creating and deploying an API gateway and
-connecting the React code to an API Gateway endpoint.
+11. connecting the React code to an API Gateway endpoint.

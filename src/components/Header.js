@@ -1,7 +1,11 @@
-import React from "react";
+import React, { useState } from "react";
 import menuLinksData from "./data/menu_links.json";
+import { useState } from "react";
 
 const Header = () => {
+  const [menuLinksData, setmenuLinksData] = useState([]);
+
+  setmenuLinksData(0);
   return (
     <header id="intro">
       <article className="fullheight">
