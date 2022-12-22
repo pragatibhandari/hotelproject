@@ -1,5 +1,9 @@
 # Hotel Project
 
+##### Link to the site deployed in Amplify.
+
+https://master.d2vaztjj4lixbk.amplifyapp.com/
+
 ### Technologies Used
 
 - React
