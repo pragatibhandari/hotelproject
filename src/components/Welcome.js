@@ -36,10 +36,12 @@ const Welcome = () => {
           is a great place for travelers and locals to engage over drinks, food,
           and good&nbsp;conversation. &nbsp;To learn more about the Yak and Yeti
           Hotel in the West End, browse our website and{" "}
-          <a href="files/landon_information_sheet_London.pdf">
-            download our handy information sheet
+          <a
+            href="https://www.yakandyeti.com/images/pdf/hotel-yny-safety-converted.pdf"
+            target="blank"
+          >
+            download our handy information sheet.
           </a>
-          .
         </p>
       </article>
     </div>
