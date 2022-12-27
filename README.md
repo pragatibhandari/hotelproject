@@ -1,9 +1,9 @@
 # Hotel Project
 ### This is a serverless application built using AWS DynamoDB for data storage, AWS Lambda Functions to interact with DynamoDB, REST API for state transfer and AWS amplify to deploy the application. The front end of the application is built in React. 
 
-##### Here is a link to the site deployed in Amplify.
+[Here is a link to the site deployed in Amplify](https://master.d2vaztjj4lixbk.amplifyapp.com/)
 
-https://master.d2vaztjj4lixbk.amplifyapp.com/
+
 
 ### Technologies Used
 
@@ -12,6 +12,7 @@ https://master.d2vaztjj4lixbk.amplifyapp.com/
 - AWS Amplify
 - AWS Lamda
 - AWS DynamoDB
+- Rest API
 
 ### Prerequisities
 
